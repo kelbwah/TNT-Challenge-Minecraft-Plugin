@@ -2,6 +2,7 @@
 This is a simple plugin using the SpigotMC api and Java that spawns a near exploding TNT in front of the player every 10 seconds. 
 
 Use these links in order to start your spigot server and then you can download the .jar file and place that into the plugin folder of your server:
+
 https://minecraft.fandom.com/wiki/Tutorials/Setting_up_a_Spigot_server
 
 
