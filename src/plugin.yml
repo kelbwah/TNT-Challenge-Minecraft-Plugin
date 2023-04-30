@@ -1,0 +1,7 @@
+main: me.kelbwah.tntboi.TntMain
+name: TntBoi
+version: 1.2
+author: kelbwah
+
+commands:
+  tntstart:
